@@ -11,3 +11,5 @@ llm = ChatGoogleGenerativeAI(
 response = llm.invoke("What is NLP?")
 
 print(response.content)
+ 
+print(maryam)
